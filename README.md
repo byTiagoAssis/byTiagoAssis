@@ -1,3 +1,10 @@
+
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+
+
 ### Olá, eu sou o Tiago Assis!
 
 Um Bacharel em Direito descobrindo as maravilhas da área de tecnologia e experimentado a transição de carreira para me tornar um <br/>
@@ -10,6 +17,7 @@ Depois de cursar lógica de programação na Cubos Academy e fazer uma imersãoD
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byTiagoAssis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byTiagoAssis&layout=compact&langs_count=7&theme=dark"/>
 </div>
+   
   <div style="display: inline_block"><br>
   <img align="center" alt="Ti-Java"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Ti-MySQL" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
@@ -29,5 +37,5 @@ Depois de cursar lógica de programação na Cubos Academy e fazer uma imersãoD
   <a href="https://www.linkedin.com/in/bytiagoassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
- 
+ ![Snake animation](https://github.com/byTiagoAssis/byTiagoAssis/blob/output/github-contribution-grid-snake.svg)
 </div>
