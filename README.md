@@ -11,7 +11,7 @@ Um Bacharel em Direito descobrindo as maravilhas da área de tecnologia e experi
 Full Stack Developer! 
 Depois de cursar lógica de programação na Cubos Academy e fazer uma imersãoDev na Alura, hoje sou o mais novo aluno da Generation Brasil no curso de Desenvolvedor Java Full Stack.
 
-<img align="right" alt="Gif"  width="400" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1633043641845.png">
+
 <div>
   <a href="https://github.com/byTiagoAssis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byTiagoAssis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
