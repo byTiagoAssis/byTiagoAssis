@@ -9,7 +9,7 @@
 
 Um Bacharel em Direito descobrindo as maravilhas da área de tecnologia e experimentado a transição de carreira para me tornar um <br/>
 Full Stack Developer! 
-Depois de cursar lógica de programação na Cubos Academy e fazer uma imersãoDev na Alura, hoje sou o mais novo aluno da Generation Brasil no curso de Desenvolvedor Java Full Stack.
+Depois de cursar lógica de programação na Cubos Academy e fazer uma imersãoDev na Alura, hoje sou formado como Desenvolvedor Java Full Stack pela Generation Brasil.
 
 
 <div>
